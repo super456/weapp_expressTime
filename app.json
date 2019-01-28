@@ -1,0 +1,11 @@
+{
+  "pages": [
+    "pages/wuliu/wuliu"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "简单的物流状态模板",
+    "navigationBarTextStyle": "black"
+  }
+}
